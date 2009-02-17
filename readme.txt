@@ -34,6 +34,11 @@ No.
 1. Output view.
 1. HTML code.
 
+== TODO list ==
+
+* Add the option to configure unrated users' color (black/white), because the white ones works only on non-white backgrounds and vice versa.
+* Add the option to get user color from TC.
+
 == ChangeLog ==
 
 **1.0.0**
