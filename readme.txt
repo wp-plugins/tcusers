@@ -38,6 +38,7 @@ No.
 
 * Add the option to configure unrated users' color (black/white), because the white ones works only on non-white backgrounds and vice versa.
 * Add the option to get user color from TC.
+* (Low) Multilanguage support
 
 == ChangeLog ==
 
