@@ -1,6 +1,4 @@
 (function() {
-	// Load plugin specific language pack
-//	tinymce.PluginManager.requireLangPack('tcusers');
 
 	tinymce.create('tinymce.plugins.TCUsersPlugin', {
 		/**
