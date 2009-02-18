@@ -62,7 +62,7 @@ class tcusers
 
 		$css_class = isset ($this->color_to_css_class[$color])
 		                    ? $this->color_to_css_class[$color]
-												: 'coderTextBlack';
+		                    : 'coderTextBlack';
 
 		return "<a href='http://topcoder.com/tc?module=SimpleSearch&amp;ha=$content' class='$css_class'>$content</a>";
 	}
